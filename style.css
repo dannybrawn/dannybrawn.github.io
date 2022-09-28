@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.wrapper {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 0;
+}
+.h1 {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+h1 {
+    font-size: 40px;
+    text-align: center; 
+}
+.img {
+    margin-left: 0;
+    margin-right: 0;
+}
+img {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.p {
+    max-width: 650px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+p {
+    font-size: 20px;
+}
+a {
+    text-decoration: none;
+    color: #0086dd;
+}
+a:hover {
+    text-decoration: underline;
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 200,
+  'opsz' 48
+}
